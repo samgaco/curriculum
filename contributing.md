@@ -7,3 +7,8 @@
 
 ### 2 The more involved but proper way
 * [Video](https://www.youtube.com/watch?v=mENDYhfxH-o)
+
+### 3 Addo & Sam
+* [Getting-feet-wet](https://github.com/samgaco/getting-feet-wet/)
+* [Heroku-link](https://toyappaddosam3.herokuapp.com/)
+
